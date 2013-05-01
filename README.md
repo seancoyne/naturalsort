@@ -4,7 +4,7 @@ This CFC will allow you to perform a [natural sort](http://sourcefrog.net/projec
 
 It was based on the [Javascript implementation](http://sourcefrog.net/projects/natsort/natcompare.js) by Kristof Coomans.
 
-This utility uses [QuickSort](www.cflib.org/udf/QuickSort) by James Sleeman to perform the actual sort.
+This utility uses [QuickSort](http://www.cflib.org/udf/QuickSort) by James Sleeman to perform the actual sort.
 
 Example Usage:
 
